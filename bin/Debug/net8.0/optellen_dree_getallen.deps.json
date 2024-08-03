@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "optellen_dree_getallen/1.0.0": {
+        "runtime": {
+          "optellen_dree_getallen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "optellen_dree_getallen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

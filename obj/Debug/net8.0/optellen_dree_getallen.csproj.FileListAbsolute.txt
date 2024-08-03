@@ -1,0 +1,14 @@
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\bin\Debug\net8.0\optellen_dree_getallen.exe
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\bin\Debug\net8.0\optellen_dree_getallen.deps.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\bin\Debug\net8.0\optellen_dree_getallen.runtimeconfig.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\bin\Debug\net8.0\optellen_dree_getallen.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\bin\Debug\net8.0\optellen_dree_getallen.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.AssemblyInfoInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.AssemblyInfo.cs
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.csproj.CoreCompileInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\refint\optellen_dree_getallen.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\optellen_dree_getallen.genruntimeconfig.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\optellen_dree_getallen\obj\Debug\net8.0\ref\optellen_dree_getallen.dll
